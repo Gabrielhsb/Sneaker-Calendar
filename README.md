@@ -14,4 +14,5 @@ O app terá como função:
  
 
 ## Telas principais
-<img src="https://ibb.co/rwxyh7t" height="300 width = "100" >
+<a href="https://ibb.co/rwxyh7t"><img src="https://i.ibb.co/fxk0W1S/Whats-App-Image-2020-07-21-at-12-10-24.jpg" alt="Whats-App-Image-2020-07-21-at-12-10-24" border="0"></a>
+<a href="https://ibb.co/FH2Zjp0"><img src="https://i.ibb.co/41zv5kY/Whats-App-Image-2020-07-21-at-12-10-27.jpg" alt="Whats-App-Image-2020-07-21-at-12-10-27" border="0"></a>
