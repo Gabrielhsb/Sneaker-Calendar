@@ -3,7 +3,7 @@
 App com a função de gerenciar futuros lançamentos de tênis.</br>
 App with the function of managing future sneakers releases.
 
-## Getting Started
+## Funções principais
 
 O app terá como função:
  - Notificar o usuário sobre novos lançamentos;
@@ -14,7 +14,4 @@ O app terá como função:
  
 
 ## Telas principais
-![WhatsApp Image 2020-07-21 at 12 10 27](https://user-images.githubusercontent.com/35871639/88072437-67a3df80-cb4b-11ea-8803-92c413a8e469.jpeg height="150" width="150")
- - Tela principal
-![WhatsApp Image 2020-07-21 at 12 10 24](https://user-images.githubusercontent.com/35871639/88072389-5b1f8700-cb4b-11ea-8fb3-3bd38710c94e.jpeg height="150" width="150")
- - Tela de informações
+<img src="https://ibb.co/rwxyh7t" height="300 width = "100" >
